@@ -5,7 +5,7 @@
 
 Hands-on lab materials for signal processing, digital image processing, and biomedical image processing using MATLAB. Each module contains MATLAB Live Scripts (`.mlx`), PDF lab manuals, and the sample data used in the exercises, along with a recorded lecture walking through the code.
 
-These labs were developed for undergraduate courses taught by [Asif Newaz](https://www.asifnewaz.com) in the Department of Electrical and Electronic Engineering, Islamic University of Technology (IUT).
+I developed these labs for the undergraduate courses I teach in the Department of Electrical and Electronic Engineering at the Islamic University of Technology (IUT). More of my teaching material is on [my website](https://www.asifnewaz.com).
 
 ## Course structure
 
