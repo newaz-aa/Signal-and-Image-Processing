@@ -3,9 +3,9 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-R2022a-red)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
-Hands-on lab materials for signal processing, digital image processing, and biomedical image processing using MATLAB. Each module contains MATLAB Live Scripts (`.mlx`), PDF lab manuals, and the sample data used in the exercises, along with a recorded lecture walking through the code.
+Hands-on lab materials for signal and image processing using MATLAB. Each module contains lab manuals, MATLAB Live Scripts (`.mlx`) with detailed description, and the sample data used in the exercises, along with a recorded lecture walking through the code.
 
-I developed these labs for the undergraduate courses I teach in the Department of Electrical and Electronic Engineering at the Islamic University of Technology (IUT). More of my teaching material is on [my website](https://www.asifnewaz.com).
+I developed these labs for the undergraduate courses I taught in the Department of Electrical and Electronic Engineering at the Islamic University of Technology (IUT).
 
 ## Course structure
 
