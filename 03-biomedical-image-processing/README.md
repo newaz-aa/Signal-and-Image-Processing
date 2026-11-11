@@ -22,11 +22,11 @@ For video demonstration and discussion of the codes, check the YouTube video -
 [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=tvMx2m45C_E&ab_channel=TheGrayWolf)
 
 ## Additional Content
-For an introduction to digital image processing, you may view this repository: https://github.com/newaz-aa/Digital-Image-Processing 
+For an introduction to digital image processing, see [02 – Digital Image Processing](../02-digital-image-processing/). For the full course, see the [main README](../README.md).
 ## Screenshots
 
-![App Screenshot](https://github.com/newaz-aa/Biomedical_Image_Processing/blob/main/sample_images/lpf2.svg)
+![App Screenshot](sample_images/lpf2.svg)
 
 
-![App Screenshot](https://github.com/newaz-aa/Biomedical_Image_Processing/blob/main/sample_images/lpf1.svg)
+![App Screenshot](sample_images/lpf1.svg)
 

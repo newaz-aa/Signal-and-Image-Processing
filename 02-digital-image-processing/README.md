@@ -41,9 +41,9 @@ For a video demonstration and discussion of the codes, check the YouTube video -
 
 ## Screenshots
 
-![App Screenshot](https://github.com/newaz-aa/Digital-Image-Processing/blob/main/Figures/Multilevel%20thresholding%20Xray.png)
+![App Screenshot](Figures/Multilevel%20thresholding%20Xray.png)
 
-![App_Screenshot](https://github.com/newaz-aa/Digital-Image-Processing/blob/main/Image_Registration/registration%20estimator%20app.png)
+![App_Screenshot](Image_Registration/registration%20estimator%20app.png)
 
-![App Screenshot](https://github.com/newaz-aa/Digital-Image-Processing/blob/main/Figures/MixCollage-12-Sep-2024-03-43-AM-8647.jpg)
+![App Screenshot](Figures/MixCollage-12-Sep-2024-03-43-AM-8647.jpg)
 
