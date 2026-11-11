@@ -65,14 +65,6 @@ Lab manual for the module: [Biomedical image processing.pdf](03-biomedical-image
 2. In MATLAB, set the current folder to the module you're working on (e.g. `02-digital-image-processing`) so the sample images and data files are found.
 3. Open a `.mlx` file and run it section by section, following along with the PDF manual.
 
-## History
-
-This repository combines three earlier repositories, with their full commit history preserved:
-
-- [Signal_Processing](https://github.com/newaz-aa/Signal_Processing) → `01-signal-processing/`
-- [Digital-Image-Processing](https://github.com/newaz-aa/Digital-Image-Processing) → `02-digital-image-processing/`
-- [Biomedical_Image_Processing](https://github.com/newaz-aa/Biomedical_Image_Processing) → `03-biomedical-image-processing/`
-
 ## License
 
 Released under the [MIT License](LICENSE).
